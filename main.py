@@ -93,84 +93,78 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 6 - GIẢI THÍCH CỦA LAN
+# TRANG 7 - CÁC DẤU HIỆU LỪA ĐẢO
 
 ## THÔNG TIN TRANG
-**Số trang:** 6
+**Số trang:** 7
 **Số khung:** 4 khung
 
 ${style_prompt}
 ${minh_prompt}
 ${lan_prompt}
 
-## KHUNG 1 - LAN GIẢI THÍCH
-**Kích thước:** Lớn (40% trang)
+## KHUNG 1 - DẤU HIỆU 1
+**Kích thước:** Trung bình (25% trang)
 **Vị trí:** Góc trên trái
 
-**Bối cảnh:** Cảnh ngồi gần nhau
-
 **Nhân vật LAN:**
-- Biểu cảm: Nghiêm túc, giải thích, chỉ tay vào điện thoại
-- Tư thế: Ngồi hoặc đứng, tay chỉ vào màn hình
-- Ngôn ngữ cơ thể: Giáo dục, kiên nhẫn
+- Biểu cảm: Giáo dục, chỉ số 1
+- Tư thế: Tay chỉ lên
 
-**Nhân vật MINH:** (Trong background)
-- Biểu cảm: Lắng nghe, chăm chú
+**Visual:** Số "1" lớn, icon tin nhắn
 
-**Speech bubble LAN:** "Minh à, những kẻ lừa đảo game thường làm thế này..."
+**Speech bubble LAN:** "Dấu hiệu 1: Tin nhắn trúng giải bất ngờ qua Facebook"
 
 ---
 
-## KHUNG 2 - LAN GIẢI THÍCH CHIÊU THỨC
-**Kích thước:** Lớn (35% trang)
+## KHUNG 2 - DẤU HIỆU 2
+**Kích thước:** Trung bình (25% trang)
 **Vị trí:** Góc trên phải
 
 **Nhân vật LAN:**
-- Biểu cảm: Giải thích, mô tả
-- Tư thế: Tay vẽ hình hoặc chỉ tay
+- Biểu cảm: Tiếp tục liệt kê
+- Tư thế: Tay chỉ số 2
 
-**Visual aid:** Có thể có sơ đồ nhỏ hoặc biểu tượng
+**Visual:** Số "2" lớn, icon tiền mặt
 
-**Speech bubble LAN:** "Họ tạo tài khoản Facebook giả, dụ người chơi bằng lời hứa skin miễn phí"
-
----
-
-## KHUNG 3 - LAN NÓI VỀ MỤC ĐÍCH
-**Kích thước:** Trung bình (30% trang)
-**Vị trí:** Dưới hai khung trên, bên trái
-
-**Nhân vật LAN:**
-- Biểu cảm: Nghiêm túc, cảnh báo
-- Tư thế: Đưa tay cảnh báo
-
-**Nhân vật MINH:** (Bắt đầu hiểu)
-- Biểu cảm: Giật mình, lo lắng
-
-**Speech bubble LAN:** "Sau đó yêu cầu 'đặt cọc' để lấy tiền, nhận được tiền là họ biến mất luôn!"
+**Speech bubble LAN:** "Dấu hiệu 2: Yêu cầu đặt cọc hoặc chuyển tiền để nhận thưởng"
 
 ---
 
-## KHUNG 4 - MINH CẢM ƠN LAN
-**Kích thước:** Lớn (35% trang)
-**Vị trí:** Dưới khung 3, bên phải
-
-**Nhân vật MINH:**
-- Biểu cảm: Giật mình, hoảng sợ, cảm ơn
-- Tư thế: Tay đưa lên trán, thể hiện hỏi hận
-- Ngôn ngữ cơ thể: Biết ơn, may mắn
+## KHUNG 3 - DẤU HIỆU 3
+**Kích thước:** Trung bình (25% trang)
+**Vị trí:** Góc dưới trái
 
 **Nhân vật LAN:**
-- Biểu cảm: An ủi, đồng cảm
+- Biểu cảm: Tiếp tục
+- Tư thế: Tay chỉ số 3
 
-**Speech bubble MINH:** "Vậy là mình suýt mất 200k rồi! Cảm ơn Lan đã cứu mình!"
+**Visual:** Số "3" lớn, icon đồng hồ
+
+**Speech bubble LAN:** "Dấu hiệu 3: Tạo áp lực thời gian, bắt phải quyết định nhanh"
+
+---
+
+## KHUNG 4 - DẤU HIỆU 4
+**Kích thước:** Trung bình (25% trang)
+**Vị trí:** Góc dưới phải
+
+**Nhân vật LAN:**
+- Biểu cảm: Kết thúc liệt kê
+- Tư thế: Tay chỉ số 4
+
+**Visual:** Số "4" lớn, icon tin nhắn riêng
+
+**Speech bubble LAN:** "Dấu hiệu 4: Không có tài khoản chính thức, chỉ liên hệ qua tin nhắn riêng"
 
 ## BỐ CỤC
-- Khung 1-2: Lan giải thích
-- Khung 3-4: Minh hiểu và cảm ơn
+- Bố cục lưới 2x2
+- Mỗi khung có số và icon rõ ràng
+- Đồng nhất về phong cách
 
 ## TONE
-**Cảm xúc:** Giải thích → Cảnh báo → Hoảng sợ → Cảm ơn
-**Mục tiêu:** Minh hiểu rõ nguy cơ và biết ơn
+**Thông tin:** Giáo dục, hệ thống
+**Mục tiêu:** Liệt kê rõ ràng các dấu hiệu
 
 """
 
