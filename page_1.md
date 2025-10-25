@@ -1,66 +1,64 @@
 # TRANG 1 - TRANG BÌA (MÀU)
 
-## THÔNG TIN CHUNG
-- **Loại trang:** Trang bìa màu
-- **Kích thước:** A4
-- **Màu sắc:** Tông màu tối với điểm nhấn đỏ cảnh báo
-- **Phong cách:** Manga/Anime, dramatic và thu hút
+## THÔNG TIN TRANG
+**Số trang:** 1
+**Loại:** Trang bìa
+**Màu sắc:** Màu (color)
+**Kích thước:** A4
 
-## TIÊU ĐỀ VÀ VĂN BẢN
-- **Tiêu đề chính:** "MẠNG LƯỚI LỪA ĐẢO" (Font lớn, màu đỏ, bold)
-- **Phụ đề:** "Cẩn thận với những lời mời hấp dẫn trên mạng!" (Font nhỏ hơn, màu trắng)
-- **Góc dưới:** "Truyện tranh giáo dục về an toàn mạng" (Font nhỏ, màu xám)
+## TIÊU ĐỀ VÀ NỘI DUNG VĂN BẢN
+**Tiêu đề chính:** "CẢNH BÁO LỪA ĐẢO GAME ONLINE"
+**Phụ đề:** "Đừng để bị dụ dỗ bởi những lời hứa hão huyền!"
+**Màu tiêu đề:** Đỏ cảnh báo (#FF0000), font chữ lớn, in đậm
+**Màu phụ đề:** Đen hoặc xám đậm, font chữ nhỏ hơn
 
-## BỐI CẢNH VÀ COMPOSITION
-**Mô tả tổng thể:**
+## PROMPT HÌNH ẢNH CHI TIẾT
+
+### Bối cảnh chính:
 ```
-Dark, dramatic composition with a 16-year-old Vietnamese student (Minh) sitting at a computer desk in his bedroom. The room is dimly lit with only the computer screen providing bright light. Multiple pop-up windows and scam messages float around the screen like digital ghosts. A menacing dark shadow with glowing red eyes reaches out from the computer screen toward Minh.
-```
-
-## CHI TIẾT HÌNH ẢNH
-
-### Nhân vật chính - MINH
-```
-16-year-old Vietnamese male student, wearing casual clothes (t-shirt and jeans). Sitting at desk with surprised and slightly worried expression. One hand on mouse, other hand raised defensively. Clean, neat appearance typical of a good student. Short black hair, kind but concerned eyes.
+A dark, dramatic scene with menacing atmosphere. Dark background (deep purple/black gradient) representing the dangerous digital world. Floating digital elements and glowing warning signs in the background.
 ```
 
-### Bối cảnh phòng học
+### Nhân vật chính - MINH:
 ```
-Modern Vietnamese teenager's bedroom: wooden desk with computer/laptop, smartphone nearby, books and school supplies visible. Soft ambient lighting from window, but main light source is the computer screen. Clean and organized room.
-```
-
-### Các yếu tố lừa đảo (Pop-up windows)
-```
-Floating digital pop-up windows with scam messages:
-- "Chúc mừng! Bạn đã trúng thưởng 10 triệu đồng!"
-- "Kiếm tiền dễ dàng - 1 triệu/ngày!"
-- "Trúng thưởng lớn - Nhấp vào đây!"
-- "Cơ hội vàng - Không bỏ lỡ!"
-
-Each pop-up has bright, flashy colors (yellow, red, green) with urgent-looking fonts.
+A 16-year-old Vietnamese male student sitting on the floor or chair, playing mobile game on smartphone. Expression: innocent, unaware of danger, focused on the game. Wearing casual clothes (t-shirt and jeans). Short black hair, kind but naive expression. The smartphone screen glows brightly.
 ```
 
-### Bóng đen đáng sợ
+### Các pop-up Facebook (trừu tượng):
 ```
-Dark, menacing shadow figure emerging from the computer screen. Glowing red eyes, claw-like hands reaching toward Minh. Semi-transparent, smoky appearance. Represents the hidden danger of online scams.
+Floating Facebook notification bubbles and pop-up windows around Minh, showing fake messages like:
+- "Trúng giải skin!"
+- "Nhận tất cả skin miễn phí!"
+- "Chúc mừng! Bạn là người may mắn!"
+- "Đặt cọc 200k nhận ngay!"
+These pop-ups have warning red colors and suspicious appearance.
 ```
 
-## MÀU SẮC VÀ TONE
-- **Nền chính:** Tông màu tối (xám đậm, đen)
-- **Điểm nhấn:** Màu đỏ cảnh báo cho tiêu đề và bóng đen
-- **Pop-up:** Màu vàng, xanh lá, cam sáng để thu hút sự chú ý
-- **Minh:** Màu da tự nhiên, quần áo tông trung tính
-- **Ánh sáng:** Tương phản mạnh giữa ánh sáng màn hình và bóng tối
+### Bóng đen (Kẻ lừa đảo):
+```
+A sinister dark silhouette or shadowy figure emerging from the smartphone screen, reaching towards Minh with claw-like hands. The figure is faceless, ominous, representing the online scammer. Glowing red eyes visible. Menacing posture, clearly predatory.
+```
 
-## COMPOSITION VÀ LAYOUT
-- **Trung tâm:** Minh ngồi trước máy tính
-- **Tiêu đề:** Phía trên, nổi bật
-- **Pop-up:** Xung quanh màn hình, tạo cảm giác bị bao vây
-- **Bóng đen:** Từ màn hình vươn ra, tạo cảm giác nguy hiểm
-- **Tỷ lệ:** Minh chiếm 40% không gian, các yếu tố khác 60%
+### Yếu tố cảnh báo:
+```
+Warning symbols floating in the background: skull and crossbones, exclamation marks, stop signs. Red warning lights and digital glitch effects. The overall atmosphere should feel dangerous and cautionary.
+```
 
-## THÔNG ĐIỆP TRỰC QUAN
-- Cảnh báo về sự nguy hiểm ẩn sau những lời mời hấp dẫn
-- Tạo cảm giác căng thẳng và cảnh giác
-- Thu hút sự chú ý của học sinh THCS/THPT
-- Thể hiện tính nghiêm trọng của vấn đề lừa đảo trực tuyến
+## MÀU SẮC TỔNG THỂ
+- **Nền tối:** Tông màu tím đen hoặc đen sâu (#1a1a2e, #0f0f1e)
+- **Điểm nhấn đỏ:** Các yếu tố cảnh báo màu đỏ rực (#ff0000, #ff3333)
+- **Nhân vật:** Màu tự nhiên, da người (#ffdbac), tóc đen
+- **Điện thoại:** Màn hình xanh phát sáng (#00ffff)
+- **Pop-up:** Màu vàng/cam cảnh báo (#ffaa00, #ff8800)
+
+## COMPOSITION (BỐ CỤC)
+- **Trung tâm:** Minh đang chơi game
+- **Tiêu đề:** Ở phía trên cùng, nổi bật
+- **Phụ đề:** Ngay dưới tiêu đề chính
+- **Bóng đen:** Vươn ra từ phía sau Minh, tạo không khí đe dọa
+- **Pop-up:** Rải rác xung quanh, tạo cảm giác bị bao vây
+
+## TONE VÀ THÔNG ĐIỆP
+**Cảm xúc:** Cảnh báo, căng thẳng, nguy hiểm tiềm ẩn
+**Thông điệp:** Sự ngây thơ có thể dẫn đến nguy hiểm trực tuyến
+**Mục tiêu:** Thu hút sự chú ý, tạo ấn tượng mạnh về nguy cơ lừa đảo game online
