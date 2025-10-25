@@ -4,6 +4,10 @@
 **Số trang:** 9
 **Số khung:** 4 khung
 
+${style_prompt}
+${minh_prompt}
+${lan_prompt}
+
 ## KHUNG 1 - MINH CHẶN KẺ LỪA ĐẢO
 **Kích thước:** Lớn (35% trang)
 **Vị trí:** Góc trên trái

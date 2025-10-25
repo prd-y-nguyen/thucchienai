@@ -4,6 +4,10 @@
 **Số trang:** 8
 **Số khung:** 4 khung
 
+${style_prompt}
+${minh_prompt}
+${lan_prompt}
+
 ## KHUNG 1 - KIỂM TRA KỸ
 **Kích thước:** Trung bình (30% trang)
 **Vị trí:** Góc trên trái

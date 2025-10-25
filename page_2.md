@@ -6,6 +6,9 @@
 **Màu sắc:** Trắng đen
 **Kích thước:** A4
 
+${style_prompt}
+${minh_prompt}
+
 ## KHUNG 1 - MINH ĐANG CHƠI GAME
 **Kích thước:** Lớn (40% trang)
 **Vị trí:** Góc trên trái

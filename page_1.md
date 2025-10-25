@@ -6,6 +6,9 @@
 **Màu sắc:** Màu (color)
 **Kích thước:** A4
 
+${style_prompt}
+${minh_prompt}
+
 ## TIÊU ĐỀ VÀ NỘI DUNG VĂN BẢN
 **Tiêu đề chính:** "CẢNH BÁO LỪA ĐẢO GAME ONLINE"
 **Phụ đề:** "Đừng để bị dụ dỗ bởi những lời hứa hão huyền!"

@@ -4,6 +4,10 @@
 **Số trang:** 5
 **Số khung:** 4 khung
 
+${style_prompt}
+${minh_prompt}
+${lan_prompt}
+
 ## KHUNG 1 - MINH CHẠY ĐẾN LAN
 **Kích thước:** Lớn (40% trang)
 **Vị trí:** Góc trên trái

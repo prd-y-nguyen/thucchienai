@@ -6,6 +6,9 @@
 **Màu sắc:** Trắng đen
 **Kích thước:** A4
 
+${style_prompt}
+${minh_prompt}
+
 ## KHUNG 1 - MINH MỞ TIN NHẮN
 **Kích thước:** Lớn (50% trang)
 **Vị trí:** Trên cùng

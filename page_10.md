@@ -4,6 +4,11 @@
 **Số trang:** 10
 **Số khung:** 4 khung
 
+${style_prompt}
+${minh_prompt}
+${lan_prompt}
+${friend_prompt}
+
 ## KHUNG 1 - LAN TRUYỀN TẢI THÔNG ĐIỆP Ở LỚP
 **Kích thước:** Lớn (40% trang)
 **Vị trí:** Góc trên trái

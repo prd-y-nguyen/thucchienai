@@ -4,6 +4,10 @@
 **Số trang:** 7
 **Số khung:** 4 khung
 
+${style_prompt}
+${minh_prompt}
+${lan_prompt}
+
 ## KHUNG 1 - DẤU HIỆU 1
 **Kích thước:** Trung bình (25% trang)
 **Vị trí:** Góc trên trái

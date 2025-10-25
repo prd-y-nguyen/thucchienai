@@ -5,6 +5,9 @@
 **Số khung:** 4 khung
 **Màu sắc:** Trắng đen
 
+${style_prompt}
+${minh_prompt}
+
 ## KHUNG 1 - YÊU CẦU THÔNG TIN
 **Kích thước:** Trung bình (30% trang)
 **Vị trí:** Góc trên trái
