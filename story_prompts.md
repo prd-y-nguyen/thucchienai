@@ -15,89 +15,89 @@ Dựa trên đề bài, tôi sẽ tạo một cốt truyện truyện tranh 10 t
 **Yêu cầu:** 5-10 trang, 1 trang bìa màu + nội dung trắng đen, kích thước A4
 **Mục tiêu:** Truyền tải thông điệp cảnh báo và hướng dẫn phòng tránh lừa đảo
 
-## CỐT TRUYỆN TRUYỆN TRANH: "MẠNG LƯỚI LỪA ĐẢO"
+## CỐT TRUYỆN TRUYỆN TRANH: "CẢNH BÁO LỪA ĐẢO GAME ONLINE"
 
 ### **TRANG 1 - TRANG BÌA (MÀU)**
-**Tiêu đề:** "MẠNG LƯỚI LỪA ĐẢO"
-**Phụ đề:** "Cẩn thận với những lời mời hấp dẫn trên mạng!"
+**Tiêu đề:** "CẢNH BÁO LỪA ĐẢO GAME ONLINE"
+**Phụ đề:** "Đừng để bị dụ dỗ bởi những lời hứa hão huyền!"
 
 **Hình ảnh:** 
-- Nhân vật chính Minh (học sinh 16 tuổi) đang ngồi trước máy tính
-- Xung quanh là các cửa sổ pop-up với những lời mời "Kiếm tiền dễ dàng", "Trúng thưởng lớn"
-- Một bóng đen đáng sợ đang vươn tay từ màn hình máy tính
+- Nhân vật chính Minh (học sinh 16 tuổi) đang chơi game Liên Quân Mobile trên điện thoại
+- Xung quanh là các pop-up Facebook với tin nhắn "Trúng giải skin", "Nhận tất cả skin miễn phí"
+- Một bóng đen đáng sợ đang vươn tay từ màn hình điện thoại
 - Màu sắc: Tông màu tối với điểm nhấn đỏ cảnh báo
 
 ---
 
 ### **TRANG 2 - GIỚI THIỆU NHÂN VẬT**
-**Khung 1:** Minh đang học bài trong phòng riêng, điện thoại đặt bên cạnh
-**Khung 2:** Điện thoại báo tin nhắn: "Chúc mừng! Bạn đã trúng thưởng 10 triệu đồng!"
+**Khung 1:** Minh đang chơi game Liên Quân Mobile trên điện thoại trong phòng riêng
+**Khung 2:** Điện thoại báo tin nhắn Facebook: "Chúc mừng! Bạn là người may mắn!"
 **Khung 3:** Minh nhìn điện thoại với ánh mắt ngạc nhiên và vui mừng
-**Khung 4:** Minh nghĩ: "Thật không? Mình có may mắn thế sao?"
+**Khung 4:** Minh nghĩ: "Thật không? Mình trúng giải sao?"
 
 ---
 
-### **TRANG 3 - CUỘC GỌI LỪA ĐẢO**
-**Khung 1:** Minh nhấc máy, giọng nói lạ: "Xin chào, tôi là nhân viên ngân hàng..."
-**Khung 2:** "Để nhận thưởng, bạn cần cung cấp thông tin thẻ ATM và mã OTP"
-**Khung 3:** Minh do dự: "Nhưng... tại sao lại cần thông tin cá nhân?"
-**Khung 4:** Giọng nói gấp gáp: "Nhanh lên, ưu đãi chỉ có 5 phút!"
+### **TRANG 3 - TIN NHẮN LỪA ĐẢO**
+**Khung 1:** Minh mở tin nhắn Facebook, kẻ lừa đảo: "Bạn có cơ hội nhận TẤT CẢ skin trong game!"
+**Khung 2:** "Chỉ cần đặt cọc 200k để làm thủ tục nhận thưởng ngay!"
+**Khung 3:** Minh hỏi: "Tất cả skin ư? Thật không?"
+**Khung 4:** Kẻ lừa đảo: "Đúng vậy! Cơ hội chỉ trong nháy mắt, nhanh lên!"
 
 ---
 
-### **TRANG 4 - CẢNH BÁO TỪ BẠN BÈ**
-**Khung 1:** Minh sắp cung cấp thông tin thì Lan (bạn thân) xuất hiện
-**Khung 2:** Lan: "Minh! Đừng tin! Đây là lừa đảo!"
-**Khung 3:** Lan chỉ vào điện thoại: "Mình đã thấy nhiều trường hợp như thế này rồi"
-**Khung 4:** Minh ngừng lại, nhìn Lan với vẻ bối rối
+### **TRANG 4 - YÊU CẦU THÔNG TIN CÁ NHÂN**
+**Khung 1:** Kẻ lừa đảo: "Để nhận phần thưởng, bạn cần cung cấp thông tin tài khoản game và số điện thoại"
+**Khung 2:** "Sau đó chuyển khoản 200k vào số tài khoản này để đặt cọc"
+**Khung 3:** Minh vui mừng, nói thầm: "Mình sắp có tất cả skin rồi!"
+**Khung 4:** Minh đứng dậy và chạy đi tìm Lan để khoe tin vui
 
 ---
 
-### **TRANG 5 - GIẢI THÍCH CỦA LAN**
-**Khung 1:** Lan ngồi xuống bên Minh: "Những kẻ lừa đảo thường..."
-**Khung 2:** Lan vẽ sơ đồ: "Họ tạo tin nhắn giả, gọi điện giả danh ngân hàng"
-**Khung 3:** "Mục đích là lấy thông tin thẻ và mã OTP để rút tiền"
-**Khung 4:** Minh: "Vậy mình suýt bị lừa rồi! Cảm ơn Lan!"
+### **TRANG 5 - MINH KHOA VÀ LAN CẢNH BÁO**
+**Khung 1:** Minh hớn hở chạy đến chỗ Lan: "Lan ơi! Mình trúng giải rồi, sắp có tất cả skin!"
+**Khung 2:** Minh đưa điện thoại cho Lan xem: "Xem này, họ bảo chỉ cần đặt cọc 200k thôi!"
+**Khung 3:** Lan nhìn vào tin nhắn, lập tức lo lắng: "Khoan đã Minh! Đây là lừa đảo đấy!"
+**Khung 4:** Minh ngạc nhiên: "Lừa đảo ư? Nhưng họ hứa cho mình tất cả skin mà!"
 
 ---
 
-### **TRANG 6 - CÁC DẤU HIỆU LỪA ĐẢO**
-**Khung 1:** Lan liệt kê: "Dấu hiệu 1: Tin nhắn trúng thưởng bất ngờ"
-**Khung 2:** "Dấu hiệu 2: Yêu cầu cung cấp thông tin cá nhân"
-**Khung 3:** "Dấu hiệu 3: Áp lực thời gian, bắt phải quyết định nhanh"
-**Khung 4:** "Dấu hiệu 4: Số điện thoại lạ, không phải hotline chính thức"
+### **TRANG 6 - GIẢI THÍCH CỦA LAN**
+**Khung 1:** Lan chỉ vào tin nhắn: "Minh à, những kẻ lừa đảo game thường làm thế này..."
+**Khung 2:** Lan giải thích: "Họ tạo tài khoản Facebook giả, dụ người chơi bằng lời hứa skin miễn phí"
+**Khung 3:** "Sau đó yêu cầu 'đặt cọc' để lấy tiền, nhận được tiền là họ biến mất luôn!"
+**Khung 4:** Minh giật mình: "Vậy là mình suýt mất 200k rồi! Cảm ơn Lan đã cứu mình!"
 
 ---
 
-### **TRANG 7 - CÁCH PHÒNG TRÁNH**
-**Khung 1:** Lan: "Khi nhận tin nhắn lạ, hãy kiểm tra kỹ"
-**Khung 2:** "Gọi trực tiếp đến hotline chính thức của ngân hàng"
-**Khung 3:** "Không bao giờ cung cấp mã OTP cho người lạ"
+### **TRANG 7 - CÁC DẤU HIỆU LỪA ĐẢO**
+**Khung 1:** Lan liệt kê: "Dấu hiệu 1: Tin nhắn trúng giải bất ngờ qua Facebook"
+**Khung 2:** "Dấu hiệu 2: Yêu cầu đặt cọc hoặc chuyển tiền để nhận thưởng"
+**Khung 3:** "Dấu hiệu 3: Tạo áp lực thời gian, bắt phải quyết định nhanh"
+**Khung 4:** "Dấu hiệu 4: Không có tài khoản chính thức, chỉ liên hệ qua tin nhắn riêng"
+
+---
+
+### **TRANG 8 - CÁCH PHÒNG TRÁNH**
+**Khung 1:** Lan: "Khi nhận tin nhắn lạ về game, hãy kiểm tra kỹ"
+**Khung 2:** "Không bao giờ cung cấp thông tin cá nhân hoặc chuyển tiền cho người lạ"
+**Khung 3:** "Nếu muốn mua skin, chỉ mua qua trang chính thức của game"
 **Khung 4:** "Chia sẻ thông tin này với bạn bè và gia đình"
 
 ---
 
-### **TRANG 8 - MINH HỌC ĐƯỢC BÀI HỌC**
-**Khung 1:** Minh cúp máy và xóa tin nhắn lừa đảo
-**Khung 2:** Minh: "Mình sẽ cẩn thận hơn từ giờ"
+### **TRANG 9 - MINH HỌC ĐƯỢC BÀI HỌC**
+**Khung 1:** Minh chặn và xóa tin nhắn lừa đảo trên Facebook
+**Khung 2:** Minh: "Mình sẽ cẩn thận hơn từ giờ, không tin lời dụ dỗ nữa"
 **Khung 3:** Lan: "Đúng rồi! An toàn trên mạng là ưu tiên hàng đầu"
 **Khung 4:** Cả hai cùng cười, Minh cảm ơn Lan
 
 ---
 
-### **TRANG 9 - LAN TRUYỀN TẢI THÔNG ĐIỆP**
-**Khung 1:** Lan đứng trước lớp học
-**Khung 2:** Lan: "Các bạn ơi, hãy cẩn thận với lừa đảo trực tuyến!"
-**Khung 3:** "Chúng ta cần bảo vệ thông tin cá nhân và tài sản"
-**Khung 4:** Các bạn học sinh vỗ tay, ghi chép lại những lời khuyên
-
----
-
-### **TRANG 10 - KẾT THÚC TÍCH CỰC**
-**Khung 1:** Minh và Lan cùng nhau tạo poster cảnh báo
-**Khung 2:** Poster có nội dung: "CẢNH BÁO LỪA ĐẢO TRỰC TUYẾN"
-**Khung 3:** "Hãy là người dùng mạng thông minh và an toàn!"
-**Khung 4:** Minh và Lan cùng chỉ tay lên poster, nụ cười tự tin
+### **TRANG 10 - TRUYỀN TẢI THÔNG ĐIỆP VÀ KẾT THÚC TÍCH CỰC**
+**Khung 1:** Lan đứng trước lớp học: "Các bạn ơi, hãy cẩn thận với lừa đảo game online!"
+**Khung 2:** "Đừng để bị dụ dỗ bằng lời hứa nhận skin miễn phí, rất dễ bị lừa!"
+**Khung 3:** Minh và Lan cùng tạo poster cảnh báo trên Facebook: "KHÔNG BAO GIỜ CHUYỂN TIỀN CHO NGƯỜI LẠ"
+**Khung 4:** Minh và Lan cùng chỉ tay lên poster trên màn hình điện thoại, nụ cười tự tin: "Hãy là game thủ thông minh và an toàn!"
 
 
 [1 tool called]
