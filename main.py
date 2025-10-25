@@ -93,78 +93,84 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 7 - CÁC DẤU HIỆU LỪA ĐẢO
+# TRANG 10 - TRUYỀN TẢI THÔNG ĐIỆP
 
 ## THÔNG TIN TRANG
-**Số trang:** 7
+**Số trang:** 10
 **Số khung:** 4 khung
 
 ${style_prompt}
 ${minh_prompt}
 ${lan_prompt}
+${friend_prompt}
 
-## KHUNG 1 - DẤU HIỆU 1
-**Kích thước:** Trung bình (25% trang)
+## KHUNG 1 - LAN TRUYỀN TẢI THÔNG ĐIỆP Ở LỚP
+**Kích thước:** Lớn (40% trang)
 **Vị trí:** Góc trên trái
 
+**Bối cảnh:** Lớp học
+
 **Nhân vật LAN:**
-- Biểu cảm: Giáo dục, chỉ số 1
-- Tư thế: Tay chỉ lên
+- Biểu cảm: Tự tin, năng động
+- Tư thế: Đứng trước lớp, tay chỉ lên cao
+- Ngôn ngữ cơ thể: Truyền đạt nhiệt huyết
 
-**Visual:** Số "1" lớn, icon tin nhắn
+**Các học sinh khác:** (Trong background)
+- Đang ngồi nghe, có người ghi chép
+- Biểu cảm: Chú ý, quan tâm
 
-**Speech bubble LAN:** "Dấu hiệu 1: Tin nhắn trúng giải bất ngờ qua Facebook"
+**Speech bubble LAN:** "Các bạn ơi, hãy cẩn thận với lừa đảo game online!"
 
 ---
 
-## KHUNG 2 - DẤU HIỆU 2
-**Kích thước:** Trung bình (25% trang)
+## KHUNG 2 - LAN TIẾP TỤC GIẢI THÍCH
+**Kích thước:** Lớn (35% trang)
 **Vị trí:** Góc trên phải
 
 **Nhân vật LAN:**
-- Biểu cảm: Tiếp tục liệt kê
-- Tư thế: Tay chỉ số 2
+- Biểu cảm: Giải thích, giáo dục
+- Tư thế: Tay vẽ hình hoặc chỉ vào bảng
 
-**Visual:** Số "2" lớn, icon tiền mặt
+**Các học sinh:** (Chăm chú lắng nghe)
 
-**Speech bubble LAN:** "Dấu hiệu 2: Yêu cầu đặt cọc hoặc chuyển tiền để nhận thưởng"
-
----
-
-## KHUNG 3 - DẤU HIỆU 3
-**Kích thước:** Trung bình (25% trang)
-**Vị trí:** Góc dưới trái
-
-**Nhân vật LAN:**
-- Biểu cảm: Tiếp tục
-- Tư thế: Tay chỉ số 3
-
-**Visual:** Số "3" lớn, icon đồng hồ
-
-**Speech bubble LAN:** "Dấu hiệu 3: Tạo áp lực thời gian, bắt phải quyết định nhanh"
+**Speech bubble LAN:** "Đừng để bị dụ dỗ bằng lời hứa nhận skin miễn phí, rất dễ bị lừa!"
 
 ---
 
-## KHUNG 4 - DẤU HIỆU 4
-**Kích thước:** Trung bình (25% trang)
-**Vị trí:** Góc dưới phải
+## KHUNG 3 - MINH VÀ LAN TẠO POSTER
+**Kích thước:** Lớn (40% trang)
+**Vị trí:** Dưới hai khung trên
 
-**Nhân vật LAN:**
-- Biểu cảm: Kết thúc liệt kê
-- Tư thế: Tay chỉ số 4
+**Bối cảnh:** Cảnh ngồi làm việc cùng nhau trên điện thoại/tablet
 
-**Visual:** Số "4" lớn, icon tin nhắn riêng
+**Nhân vật MINH và LAN:**
+- Biểu cảm: Tập trung, sáng tạo
+- Tư thế: Cùng nhìn vào màn hình, tay thao tác
 
-**Speech bubble LAN:** "Dấu hiệu 4: Không có tài khoản chính thức, chỉ liên hệ qua tin nhắn riêng"
+**Visual:** Poster trên màn hình với nội dung: "KHÔNG BAO GIỜ CHUYỂN TIỀN CHO NGƯỜI LẠ"
+
+---
+
+## KHUNG 4 - KẾT THÚC TÍCH CỰC
+**Kích thước:** Lớn (40% trang)
+**Vị trí:** Dưới khung 3
+
+**Nhân vật MINH và LAN:**
+- Biểu cảm: Tự tin, hạnh phúc, cười tươi
+- Tư thế: Đứng cạnh nhau, cùng chỉ tay lên poster trên màn hình
+- Ngôn ngữ cơ thể: Tự hào, tích cực
+
+**Background:** Có thể có poster hoặc màn hình lớn hiển thị thông điệp
+
+**Speech bubble:** (Chung) "Hãy là game thủ thông minh và an toàn!"
 
 ## BỐ CỤC
-- Bố cục lưới 2x2
-- Mỗi khung có số và icon rõ ràng
-- Đồng nhất về phong cách
+- Khung 1-2: Lan giáo dục cộng đồng
+- Khung 3-4: Minh và Lan tạo poster
 
 ## TONE
-**Thông tin:** Giáo dục, hệ thống
-**Mục tiêu:** Liệt kê rõ ràng các dấu hiệu
+**Cảm xúc:** Giáo dục → Hành động → Tự tin
+**Mục tiêu:** Kết thúc tích cực, truyền tải thông điệp rộng rãi
 
 """
 
