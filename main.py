@@ -93,70 +93,84 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 4 - YÊU CẦU THÔNG TIN CÁ NHÂN
+# TRANG 6 - GIẢI THÍCH CỦA LAN
 
 ## THÔNG TIN TRANG
-**Số trang:** 4
+**Số trang:** 6
 **Số khung:** 4 khung
-**Màu sắc:** Trắng đen
 
 ${style_prompt}
 ${minh_prompt}
+${lan_prompt}
 
-## KHUNG 1 - YÊU CẦU THÔNG TIN
-**Kích thước:** Trung bình (30% trang)
+## KHUNG 1 - LAN GIẢI THÍCH
+**Kích thước:** Lớn (40% trang)
 **Vị trí:** Góc trên trái
 
-**Tin nhắn:**
-- Nội dung: "Để nhận phần thưởng, bạn cần cung cấp thông tin tài khoản game và số điện thoại"
-- Emoji: 📱 🎮
-- Style: Lịch sự, chuyên nghiệp giả tạo
+**Bối cảnh:** Cảnh ngồi gần nhau
+
+**Nhân vật LAN:**
+- Biểu cảm: Nghiêm túc, giải thích, chỉ tay vào điện thoại
+- Tư thế: Ngồi hoặc đứng, tay chỉ vào màn hình
+- Ngôn ngữ cơ thể: Giáo dục, kiên nhẫn
+
+**Nhân vật MINH:** (Trong background)
+- Biểu cảm: Lắng nghe, chăm chú
+
+**Speech bubble LAN:** "Minh à, những kẻ lừa đảo game thường làm thế này..."
 
 ---
 
-## KHUNG 2 - YÊU CẦU CHUYỂN TIỀN
-**Kích thước:** Trung bình (30% trang)
+## KHUNG 2 - LAN GIẢI THÍCH CHIÊU THỨC
+**Kích thước:** Lớn (35% trang)
 **Vị trí:** Góc trên phải
 
-**Tin nhắn:**
-- Nội dung: "Sau đó chuyển khoản 200k vào số tài khoản này để đặt cọc"
-- Số tài khoản: "123 456 7890"
-- Emoji: 💵 ✨
+**Nhân vật LAN:**
+- Biểu cảm: Giải thích, mô tả
+- Tư thế: Tay vẽ hình hoặc chỉ tay
+
+**Visual aid:** Có thể có sơ đồ nhỏ hoặc biểu tượng
+
+**Speech bubble LAN:** "Họ tạo tài khoản Facebook giả, dụ người chơi bằng lời hứa skin miễn phí"
 
 ---
 
-## KHUNG 3 - MINH VUI MỪNG
-**Kích thước:** Lớn (40% trang)
-**Vị trí:** Dưới hai khung trên
+## KHUNG 3 - LAN NÓI VỀ MỤC ĐÍCH
+**Kích thước:** Trung bình (30% trang)
+**Vị trí:** Dưới hai khung trên, bên trái
 
-**Nhân vật MINH:**
-- Biểu cảm: Vui mừng, phấn khích, miệng cười lớn
-- Tư thế: Đứng dậy hoặc ngồi thẳng
-- Ngôn ngữ cơ thể: Tích cực, năng lượng cao
+**Nhân vật LAN:**
+- Biểu cảm: Nghiêm túc, cảnh báo
+- Tư thế: Đưa tay cảnh báo
 
-**Thought bubble:** "Mình sắp có tất cả skin rồi!"
+**Nhân vật MINH:** (Bắt đầu hiểu)
+- Biểu cảm: Giật mình, lo lắng
+
+**Speech bubble LAN:** "Sau đó yêu cầu 'đặt cọc' để lấy tiền, nhận được tiền là họ biến mất luôn!"
 
 ---
 
-## KHUNG 4 - MINH CHẠY ĐI TÌM LAN
-**Kích thước:** Nhỏ (30% trang)
-**Vị trí:** Góc dưới phải
+## KHUNG 4 - MINH CẢM ƠN LAN
+**Kích thước:** Lớn (35% trang)
+**Vị trí:** Dưới khung 3, bên phải
 
 **Nhân vật MINH:**
-- Hành động: Đang chạy, tay vung cao cầm điện thoại
-- Biểu cảm: Phấn khích, háo hức
-- Background: Phòng ngủ → hành lang (chuyển cảnh)
+- Biểu cảm: Giật mình, hoảng sợ, cảm ơn
+- Tư thế: Tay đưa lên trán, thể hiện hỏi hận
+- Ngôn ngữ cơ thể: Biết ơn, may mắn
 
-**Speech bubble:** "Lan ơi! Có tin vui!"
+**Nhân vật LAN:**
+- Biểu cảm: An ủi, đồng cảm
+
+**Speech bubble MINH:** "Vậy là mình suýt mất 200k rồi! Cảm ơn Lan đã cứu mình!"
 
 ## BỐ CỤC
-- Khung 1-2: Tin nhắn (bố cục song song)
-- Khung 3: Phản ứng của Minh
-- Khung 4: Hành động, dẫn đến trang tiếp theo
+- Khung 1-2: Lan giải thích
+- Khung 3-4: Minh hiểu và cảm ơn
 
 ## TONE
-**Cảm xúc:** Đồng ý → Vui mừng → Hào hứng
-**Mục tiêu:** Cho thấy Minh đã tin và sẵn sàng thực hiện
+**Cảm xúc:** Giải thích → Cảnh báo → Hoảng sợ → Cảm ơn
+**Mục tiêu:** Minh hiểu rõ nguy cơ và biết ơn
 
 """
 
