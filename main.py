@@ -93,84 +93,73 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 10 - TRUYỀN TẢI THÔNG ĐIỆP
+# TRANG 3 - TIN NHẮN LỪA ĐẢO
 
 ## THÔNG TIN TRANG
-**Số trang:** 10
+**Số trang:** 3
 **Số khung:** 4 khung
+**Màu sắc:** Trắng đen
+**Kích thước:** A4
 
 ${style_prompt}
 ${minh_prompt}
-${lan_prompt}
-${friend_prompt}
 
-## KHUNG 1 - LAN TRUYỀN TẢI THÔNG ĐIỆP Ở LỚP
-**Kích thước:** Lớn (40% trang)
-**Vị trí:** Góc trên trái
+## KHUNG 1 - MINH MỞ TIN NHẮN
+**Kích thước:** Lớn (50% trang)
+**Vị trí:** Trên cùng
 
-**Bối cảnh:** Lớp học
+**Bối cảnh:** Cận cảnh điện thoại, giao diện Facebook Messenger đang mở
 
-**Nhân vật LAN:**
-- Biểu cảm: Tự tin, năng động
-- Tư thế: Đứng trước lớp, tay chỉ lên cao
-- Ngôn ngữ cơ thể: Truyền đạt nhiệt huyết
+**Nhân vật MINH:** (Chỉ thấy tay và điện thoại trong khung)
+- Tay cầm điện thoại, ngón tay chạm màn hình
 
-**Các học sinh khác:** (Trong background)
-- Đang ngồi nghe, có người ghi chép
-- Biểu cảm: Chú ý, quan tâm
-
-**Speech bubble LAN:** "Các bạn ơi, hãy cẩn thận với lừa đảo game online!"
+**Tin nhắn hiển thị:**
+- Avatar người gửi: Ảnh đại diện mặc định hoặc mờ
+- Tên: "Support Game" hoặc tên khó đọc
+- Nội dung: "Bạn có cơ hội nhận TẤT CẢ skin trong game!"
+- Style: Chữ lớn, in đậm, màu sắc sặc sỡ
 
 ---
 
-## KHUNG 2 - LAN TIẾP TỤC GIẢI THÍCH
-**Kích thước:** Lớn (35% trang)
-**Vị trí:** Góc trên phải
+## KHUNG 2 - YÊU CẦU ĐẶT CỌC
+**Kích thước:** Trung bình (30% trang)
+**Vị trí:** Dưới khung 1, bên phải
 
-**Nhân vật LAN:**
-- Biểu cảm: Giải thích, giáo dục
-- Tư thế: Tay vẽ hình hoặc chỉ vào bảng
-
-**Các học sinh:** (Chăm chú lắng nghe)
-
-**Speech bubble LAN:** "Đừng để bị dụ dỗ bằng lời hứa nhận skin miễn phí, rất dễ bị lừa!"
+**Tin nhắn tiếp theo:**
+- Nội dung: "Chỉ cần đặt cọc 200k để làm thủ tục nhận thưởng ngay!"
+- Emoji: 💰 💎 ⚡
+- Style: Nhiều màu sắc, hấp dẫn
 
 ---
 
-## KHUNG 3 - MINH VÀ LAN TẠO POSTER
-**Kích thước:** Lớn (40% trang)
-**Vị trí:** Dưới hai khung trên
+## KHUNG 3 - MINH HỎI LẠI
+**Kích thước:** Nhỏ (20% trang)
+**Vị trí:** Dưới khung 2
 
-**Bối cảnh:** Cảnh ngồi làm việc cùng nhau trên điện thoại/tablet
-
-**Nhân vật MINH và LAN:**
-- Biểu cảm: Tập trung, sáng tạo
-- Tư thế: Cùng nhìn vào màn hình, tay thao tác
-
-**Visual:** Poster trên màn hình với nội dung: "KHÔNG BAO GIỜ CHUYỂN TIỀN CHO NGƯỜI LẠ"
+**Tin nhắn của MINH:**
+- Avatar Minh: Ảnh rõ ràng
+- Nội dung: "Tất cả skin ư? Thật không?"
+- Biểu cảm (nếu có avatar): Ngạc nhiên, hoài nghi nhẹ
 
 ---
 
-## KHUNG 4 - KẾT THÚC TÍCH CỰC
-**Kích thước:** Lớn (40% trang)
-**Vị trí:** Dưới khung 3
+## KHUNG 4 - PHẢN HỒI KẺ LỪA ĐẢO
+**Kích thước:** Trung bình (30% trang)
+**Vị trí:** Góc dưới bên phải
 
-**Nhân vật MINH và LAN:**
-- Biểu cảm: Tự tin, hạnh phúc, cười tươi
-- Tư thế: Đứng cạnh nhau, cùng chỉ tay lên poster trên màn hình
-- Ngôn ngữ cơ thể: Tự hào, tích cực
+**Tin nhắn của kẻ lừa đảo:**
+- Nội dung: "Đúng vậy! Cơ hội chỉ trong nháy mắt, nhanh lên!"
+- Emoji: ⏰ ⚡ 🔥
+- Style: Nhiều biểu tượng, tạo cảm giác khẩn trương
 
-**Background:** Có thể có poster hoặc màn hình lớn hiển thị thông điệp
+## MÀU SẮC VÀ TONE
+- Background: Trắng
+- Tin nhắn: Nhiều màu sắc (trong phong cách trắng đen thì dùng độ đậm nhạt khác nhau)
+- Tạo cảm giác gấp gáp và hấp dẫn
 
-**Speech bubble:** (Chung) "Hãy là game thủ thông minh và an toàn!"
-
-## BỐ CỤC
-- Khung 1-2: Lan giáo dục cộng đồng
-- Khung 3-4: Minh và Lan tạo poster
-
-## TONE
-**Cảm xúc:** Giáo dục → Hành động → Tự tin
-**Mục tiêu:** Kết thúc tích cực, truyền tải thông điệp rộng rãi
+## THÔNG ĐIỆP
+**Tone:** Hấp dẫn → Hoài nghi → Áp lực
+**Mục tiêu:** Cho thấy cách kẻ lừa đảo dụ dỗ và tạo áp lực thời gian
 
 """
 
