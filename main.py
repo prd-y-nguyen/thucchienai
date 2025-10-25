@@ -37,7 +37,10 @@ minh_prompt = """
 ### 1. MINH (16 tuổi) - Nhân vật chính
 **Mô tả tổng quan:**
 ```
-A 16-year-old Vietnamese high school student, male, average height, friendly and approachable appearance. Wearing casual school uniform (white shirt, dark blue pants) or casual clothes (t-shirt and jeans). Short black hair, kind eyes, slightly naive expression. Clean and neat appearance typical of a good student.
+A 16-year-old Vietnamese high school student, male, average height, friendly and approachable appearance.
+Black short hair.
+Wearing casual school uniform (white shirt, dark blue pants).
+Short black hair, kind eyes, slightly naive expression. Clean and neat appearance typical of a good student.
 ```
 
 **Các biểu cảm cần thiết:**
@@ -90,73 +93,70 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 3 - TIN NHẮN LỪA ĐẢO
+# TRANG 4 - YÊU CẦU THÔNG TIN CÁ NHÂN
 
 ## THÔNG TIN TRANG
-**Số trang:** 3
+**Số trang:** 4
 **Số khung:** 4 khung
 **Màu sắc:** Trắng đen
-**Kích thước:** A4
 
 ${style_prompt}
 ${minh_prompt}
 
-## KHUNG 1 - MINH MỞ TIN NHẮN
-**Kích thước:** Lớn (50% trang)
-**Vị trí:** Trên cùng
-
-**Bối cảnh:** Cận cảnh điện thoại, giao diện Facebook Messenger đang mở
-
-**Nhân vật MINH:** (Chỉ thấy tay và điện thoại trong khung)
-- Tay cầm điện thoại, ngón tay chạm màn hình
-
-**Tin nhắn hiển thị:**
-- Avatar người gửi: Ảnh đại diện mặc định hoặc mờ
-- Tên: "Support Game" hoặc tên khó đọc
-- Nội dung: "Bạn có cơ hội nhận TẤT CẢ skin trong game!"
-- Style: Chữ lớn, in đậm, màu sắc sặc sỡ
-
----
-
-## KHUNG 2 - YÊU CẦU ĐẶT CỌC
+## KHUNG 1 - YÊU CẦU THÔNG TIN
 **Kích thước:** Trung bình (30% trang)
-**Vị trí:** Dưới khung 1, bên phải
+**Vị trí:** Góc trên trái
 
-**Tin nhắn tiếp theo:**
-- Nội dung: "Chỉ cần đặt cọc 200k để làm thủ tục nhận thưởng ngay!"
-- Emoji: 💰 💎 ⚡
-- Style: Nhiều màu sắc, hấp dẫn
-
----
-
-## KHUNG 3 - MINH HỎI LẠI
-**Kích thước:** Nhỏ (20% trang)
-**Vị trí:** Dưới khung 2
-
-**Tin nhắn của MINH:**
-- Avatar Minh: Ảnh rõ ràng
-- Nội dung: "Tất cả skin ư? Thật không?"
-- Biểu cảm (nếu có avatar): Ngạc nhiên, hoài nghi nhẹ
+**Tin nhắn:**
+- Nội dung: "Để nhận phần thưởng, bạn cần cung cấp thông tin tài khoản game và số điện thoại"
+- Emoji: 📱 🎮
+- Style: Lịch sự, chuyên nghiệp giả tạo
 
 ---
 
-## KHUNG 4 - PHẢN HỒI KẺ LỪA ĐẢO
+## KHUNG 2 - YÊU CẦU CHUYỂN TIỀN
 **Kích thước:** Trung bình (30% trang)
-**Vị trí:** Góc dưới bên phải
+**Vị trí:** Góc trên phải
 
-**Tin nhắn của kẻ lừa đảo:**
-- Nội dung: "Đúng vậy! Cơ hội chỉ trong nháy mắt, nhanh lên!"
-- Emoji: ⏰ ⚡ 🔥
-- Style: Nhiều biểu tượng, tạo cảm giác khẩn trương
+**Tin nhắn:**
+- Nội dung: "Sau đó chuyển khoản 200k vào số tài khoản này để đặt cọc"
+- Số tài khoản: "123 456 7890"
+- Emoji: 💵 ✨
 
-## MÀU SẮC VÀ TONE
-- Background: Trắng
-- Tin nhắn: Nhiều màu sắc (trong phong cách trắng đen thì dùng độ đậm nhạt khác nhau)
-- Tạo cảm giác gấp gáp và hấp dẫn
+---
 
-## THÔNG ĐIỆP
-**Tone:** Hấp dẫn → Hoài nghi → Áp lực
-**Mục tiêu:** Cho thấy cách kẻ lừa đảo dụ dỗ và tạo áp lực thời gian
+## KHUNG 3 - MINH VUI MỪNG
+**Kích thước:** Lớn (40% trang)
+**Vị trí:** Dưới hai khung trên
+
+**Nhân vật MINH:**
+- Biểu cảm: Vui mừng, phấn khích, miệng cười lớn
+- Tư thế: Đứng dậy hoặc ngồi thẳng
+- Ngôn ngữ cơ thể: Tích cực, năng lượng cao
+
+**Thought bubble:** "Mình sắp có tất cả skin rồi!"
+
+---
+
+## KHUNG 4 - MINH CHẠY ĐI TÌM LAN
+**Kích thước:** Nhỏ (30% trang)
+**Vị trí:** Góc dưới phải
+
+**Nhân vật MINH:**
+- Hành động: Đang chạy, tay vung cao cầm điện thoại
+- Biểu cảm: Phấn khích, háo hức
+- Background: Phòng ngủ → hành lang (chuyển cảnh)
+
+**Speech bubble:** "Lan ơi! Có tin vui!"
+
+## BỐ CỤC
+- Khung 1-2: Tin nhắn (bố cục song song)
+- Khung 3: Phản ứng của Minh
+- Khung 4: Hành động, dẫn đến trang tiếp theo
+
+## TONE
+**Cảm xúc:** Đồng ý → Vui mừng → Hào hứng
+**Mục tiêu:** Cho thấy Minh đã tin và sẵn sàng thực hiện
 
 """
 
