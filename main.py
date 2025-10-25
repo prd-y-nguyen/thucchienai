@@ -90,10 +90,10 @@ prompt = """
 You are an manga artist.
 
 Your job is to draw an page with these information:
-# TRANG 2 - GIỚI THIỆU NHÂN VẬT
+# TRANG 3 - TIN NHẮN LỪA ĐẢO
 
 ## THÔNG TIN TRANG
-**Số trang:** 2
+**Số trang:** 3
 **Số khung:** 4 khung
 **Màu sắc:** Trắng đen
 **Kích thước:** A4
@@ -101,71 +101,62 @@ Your job is to draw an page with these information:
 ${style_prompt}
 ${minh_prompt}
 
-## KHUNG 1 - MINH ĐANG CHƠI GAME
-**Kích thước:** Lớn (40% trang)
-**Vị trí:** Góc trên trái
+## KHUNG 1 - MINH MỞ TIN NHẮN
+**Kích thước:** Lớn (50% trang)
+**Vị trí:** Trên cùng
 
-**Bối cảnh:** Phòng ngủ của Minh, gọn gàng, có bàn học, giường, cửa sổ có ánh sáng tự nhiên
+**Bối cảnh:** Cận cảnh điện thoại, giao diện Facebook Messenger đang mở
 
-**Nhân vật MINH:**
-- Tư thế: Ngồi thoải mái trên giường/ghế
-- Ngoại hình: 16 tuổi, nam, tóc đen ngắn
-- Trang phục: Áo phông trơn, quần jeans
-- Biểu cảm: Tập trung, vui vẻ, mắt dán vào màn hình
-- Hành động: Hai tay cầm điện thoại, chân bắt chéo thoải mái
+**Nhân vật MINH:** (Chỉ thấy tay và điện thoại trong khung)
+- Tay cầm điện thoại, ngón tay chạm màn hình
 
-**Chi tiết điện thoại:** Màn hình hiển thị game Liên Quân Mobile với đồ họa sáng
-
----
-
-## KHUNG 2 - TIN NHẮN FACEBOOK
-**Kích thước:** Nhỏ (20% trang)
-**Vị trí:** Góc trên phải
-
-**Hình ảnh:** Cận cảnh điện thoại với thông báo Facebook Messenger:
-- Logo Facebook xanh
-- Nội dung: "Chúc mừng! Bạn là người may mắn!"
-- Avatar người gửi mặc định
-- Thời gian: "vừa xong"
+**Tin nhắn hiển thị:**
+- Avatar người gửi: Ảnh đại diện mặc định hoặc mờ
+- Tên: "Support Game" hoặc tên khó đọc
+- Nội dung: "Bạn có cơ hội nhận TẤT CẢ skin trong game!"
+- Style: Chữ lớn, in đậm, màu sắc sặc sỡ
 
 ---
 
-## KHUNG 3 - PHẢN ỨNG MINH
+## KHUNG 2 - YÊU CẦU ĐẶT CỌC
 **Kích thước:** Trung bình (30% trang)
-**Vị trí:** Giữa trang bên trái
+**Vị trí:** Dưới khung 1, bên phải
 
-**Nhân vật MINH:**
-- Biểu cảm: Ngạc nhiên, tò mò, mắt mở to, lông mày nhướn lên, miệng hơi mở
-- Tư thế: Ngả người về phía trước, đưa điện thoại gần mặt
-- Ngôn ngữ cơ thể: Thể hiện quan tâm, mong đợi
-
-**Background:** Làm mờ phòng ngủ
+**Tin nhắn tiếp theo:**
+- Nội dung: "Chỉ cần đặt cọc 200k để làm thủ tục nhận thưởng ngay!"
+- Emoji: 💰 💎 ⚡
+- Style: Nhiều màu sắc, hấp dẫn
 
 ---
 
-## KHUNG 4 - SUY NGHĨ CỦA MINH
-**Kích thước:** Nhỏ (10% hoặc thought bubble)
-**Vị trí:** Cloud từ khung 3
+## KHUNG 3 - MINH HỎI LẠI
+**Kích thước:** Nhỏ (20% trang)
+**Vị trí:** Dưới khung 2
 
-**Thought bubble:** 
-- Hình dáng: Đám mây suy nghĩ mềm mại
-- Nội dung: "Thật không? Mình trúng giải sao?"
-- Yếu tố hình ảnh: Dấu hỏi nhỏ, sao vàng, skin game
+**Tin nhắn của MINH:**
+- Avatar Minh: Ảnh rõ ràng
+- Nội dung: "Tất cả skin ư? Thật không?"
+- Biểu cảm (nếu có avatar): Ngạc nhiên, hoài nghi nhẹ
 
-**Màu:** Đen trắng với shading tinh tế
+---
 
-## BỐ CỤC TỔNG THỂ
-Flow: Trái → phải, trên → dưới
-Nhịp điệu: Khung 1 lớn giới thiệu → Khung 2 nhỏ điểm nhấn → Khung 3 phản ứng → Khung 4 suy nghĩ
+## KHUNG 4 - PHẢN HỒI KẺ LỪA ĐẢO
+**Kích thước:** Trung bình (30% trang)
+**Vị trí:** Góc dưới bên phải
 
-## MÀU SẮC
+**Tin nhắn của kẻ lừa đảo:**
+- Nội dung: "Đúng vậy! Cơ hội chỉ trong nháy mắt, nhanh lên!"
+- Emoji: ⏰ ⚡ 🔥
+- Style: Nhiều biểu tượng, tạo cảm giác khẩn trương
+
+## MÀU SẮC VÀ TONE
 - Background: Trắng
-- Line art: Đen
-- Shading: Tông xám
+- Tin nhắn: Nhiều màu sắc (trong phong cách trắng đen thì dùng độ đậm nhạt khác nhau)
+- Tạo cảm giác gấp gáp và hấp dẫn
 
-## TONE VÀ THÔNG ĐIỆP
-**Cảm xúc:** Bình yên → tò mò → kỳ vọng
-**Mục tiêu:** Thiết lập tình huống và sự ngây thơ
+## THÔNG ĐIỆP
+**Tone:** Hấp dẫn → Hoài nghi → Áp lực
+**Mục tiêu:** Cho thấy cách kẻ lừa đảo dụ dỗ và tạo áp lực thời gian
 
 """
 
